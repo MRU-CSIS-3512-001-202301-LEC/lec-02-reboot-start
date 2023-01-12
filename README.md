@@ -1,3 +1,1 @@
-# jp-starter-template
-
-
+# lec-02-reboot
